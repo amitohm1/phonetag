@@ -56,7 +56,3 @@ The (lib_interpreter version)
    server that's connecting the players (if this ends up being a very
    expensive operation).
 
-## business-side ideas
-
- - monetize the game by putting skins / sound effects for shooting
- - once we get good at tracking unique people, can sell our software to companies (or prisons) to use with their security cameras to track where specific individuals are throughout the facility.
